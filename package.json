@@ -1,0 +1,74 @@
+{
+  "name": "ahmedsajjad-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "author": {
+    "name": "MD Sajjad Hossen",
+    "email": "mdsajjadweb3dev@gmail.com",
+    "url": "https://ahmedsajjad.me"
+  },
+  "description": "Hey there! 👋 I'm Ahmed Sajjad, your friendly neighborhood web developer on a mission to craft remarkable digital experiences. With a passion for technology and an eye for design, I specialize in creating sleek, user-friendly websites that not only look fantastic but also function flawlessly.",
+  "keywords": [
+    "react",
+    "next",
+    "nextjs",
+    "html",
+    "css",
+    "javascript",
+    "js",
+    "modern-ui",
+    "modern-ux",
+    "portfolio",
+    "framer-motion",
+    "3d-website",
+    "particle-effect"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "homepage": "#",
+  "bugs": {
+    "url": "https://sajjad.me",
+    "email": "mdsajjadweb3dev@gmail.com"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://ahmedsajjad.me"
+    },
+    {
+      "type": "Buy me a coffee",
+      "url": "https://ahmedsajjad.me"
+    }
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build ",
+    "start": "next start",
+    "lint": "next lint"
+    
+    
+  },
+  "dependencies": {
+    "@next/font": "^13.4.4",
+    "framer-motion": "^10.12.16",
+    "next": "13.4.3",
+    "react": "18.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-tsparticles": "^2.9.3",
+    "swiper": "^9.4.0",
+    "tailwind-scrollbar": "^3.0.4",
+    "tsparticles": "^2.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
